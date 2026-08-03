@@ -11,7 +11,7 @@ This module introduces the Financial Technology Innovations series, explains the
 
 ### Videos
 
-- [ ] Fintech Innovations: Series Map and Learning Goals
+- [x] Fintech Innovations: Series Map and Learning Goals
 - [ ] Fintech Innovations: Series Introduction
 
 ### Readings
